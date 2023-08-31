@@ -29,6 +29,7 @@ This is a web based application developed for health related based website in in
 ### STATIC WEB APPS-
 
 
+![Screenshot (41)](https://github.com/hemasaivelagalet/health/assets/116558962/1c1f82fa-81d5-46c6-b8bf-7d37ff1c4be8)
 
 
 
@@ -36,6 +37,7 @@ This is a web based application developed for health related based website in in
 
 ### AZURE HEALTH BOT-
 
+![Screenshot (40)](https://github.com/hemasaivelagalet/health/assets/116558962/2cc9f828-9d68-4057-b44d-b6e34f1bd3ef)
 
 
 
