@@ -65,7 +65,8 @@ This is a web based application developed for health related based website in in
 
 ### health bot-
 
-![Screenshot (46)](https://github.com/hemasaivelagalet/health/assets/116558962/ac0f91dd-22d1-4987-b184-141638de1c1a)
+![Screenshot (46)](https://github.com/hemasaivelagalet/health/assets/116558962/a9bc8ba0-f3cf-4323-b358-45452bb24177)
+
 
 
 
@@ -74,6 +75,7 @@ This is a web based application developed for health related based website in in
 
 ![Screenshot (47)](https://github.com/hemasaivelagalet/health/assets/116558962/d4e7a78f-2654-4a2d-ba5a-9d50edb01417)
 
+![Screenshot (48)](https://github.com/hemasaivelagalet/health/assets/116558962/7f8ff0bc-0c91-4d15-b4ea-6f2cd3b35f0c)
 
 
 ## Tech Stack 💻
