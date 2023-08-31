@@ -43,30 +43,36 @@ This is a web based application developed for health related based website in in
 
 ## project Screenshot-
 
-## Home -
-   
+### Home -
+   ![Screenshot (42)](https://github.com/hemasaivelagalet/health/assets/116558962/6660b507-daba-4ca7-947e-ea4a87b4ef46)
+
 
 ### About Us -
+![Screenshot (43)](https://github.com/hemasaivelagalet/health/assets/116558962/ad4a5cfd-5da5-4e5b-bf63-dd3ac465c176)
 
 
-### Short codes -
+### Services -
 
+![Screenshot (44)](https://github.com/hemasaivelagalet/health/assets/116558962/0db2b0ae-652f-4276-beca-6cf11ba5f4d6)
 
 
 
 ### gallary -
 
+![Screenshot (45)](https://github.com/hemasaivelagalet/health/assets/116558962/9e1d820e-6ccb-4f00-b188-c7ef0c3a0b30)
 
 
 
 ### health bot-
 
+![Screenshot (46)](https://github.com/hemasaivelagalet/health/assets/116558962/ac0f91dd-22d1-4987-b184-141638de1c1a)
 
 
 
 ### contact -
 
 
+![Screenshot (47)](https://github.com/hemasaivelagalet/health/assets/116558962/d4e7a78f-2654-4a2d-ba5a-9d50edb01417)
 
 
 
